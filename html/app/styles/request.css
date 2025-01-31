@@ -1,4 +1,4 @@
-@import "lib/normalize";
+@import "./lib/normalize.css";
 
 @mixin clearfix {
   &:after {
