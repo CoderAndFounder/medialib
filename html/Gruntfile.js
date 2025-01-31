@@ -224,16 +224,6 @@ module.exports = function (grunt) {
             }
         },
 
-        // В Gruntfile.js
-copy: {
-    styles: {
-      expand: true,
-      cwd: '<%= config.app %>/styles',
-      dest: '.tmp/styles/',
-      src: '{,*/}*.css'
-    }
-  },
-
         // Run some tasks in parallel to speed up build process
         concurrent: {
             server: [
