@@ -12,7 +12,7 @@ MediaPlayer.SetConfig({
 		-- Base URL where HTML content is located.
 		-- @type String
 		--
-		base_url = "http://samuelmaddock.github.io/gm-mediaplayer/"
+		base_url = "https://coderandfounder.github.io/medialib/html/app/"
 
 	},
 
@@ -25,7 +25,7 @@ MediaPlayer.SetConfig({
 		-- URL of the request menu.
 		-- @type String
 		--
-		url = "http://samuelmaddock.github.io/gm-mediaplayer/request.html"
+		url = "https://coderandfounder.github.io/medialib/html/app/request.html"
 
 	}
 
